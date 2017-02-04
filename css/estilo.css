@@ -1,0 +1,254 @@
+.bodymenu {
+    background-color: rgb(255, 255,255);
+    background-image: url(images/fondo.png);
+    background-repeat: no-repeat;
+	margin: 0px;
+	}
+.menuPrincipal{
+    background-color:#CCCCCC;
+
+}
+	
+#MenuAplicacion { 
+    margin-left: 10px;
+    margin-top: 0px;
+    }
+	
+
+	/*Estilo de frame principal*/
+	
+.principal{
+     margin-left: 0px; 
+	 margin-right: 0px; 
+	 margin-top: 50px; 
+	 margin-bottom: 0px;
+	 }
+	 
+	 /*para prodcutos*/
+
+#cabeceraResultado{
+	border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+	position:relative;
+	top:10%;
+	left:1%;
+	width:80%;	
+}
+#tituloForm {
+	position:relative;
+	top:10%;
+	left:1%;
+	width:80%;
+}
+#tituloForm2 {
+	position:relative;
+	top:10%;
+	left:1%;
+	width:100%;
+}
+
+.header {
+	border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+	background-color:#000033;
+	color:#fff;
+	text-transform:uppercase;
+	text-align:center;
+	font-weight:bold;
+	height:20px;
+	vertical-align:middle;
+}
+
+#cuerpo {
+	position:absolute;
+	background-color:#FFFFFF;
+	font-family: helvetica;
+	font-size:8pt;
+	left:4%;
+	width:90%;
+	top: 15px;
+	height: 133px;
+}
+#cuerpoContenido {
+	position:relative;
+	top:0em;
+	left:0%;
+	width:100%;
+	height:100%;
+}
+
+#lineaResultado {
+	position:relative;
+	top:10%;
+	left:0%;
+	width:80%;	
+}
+#frmResultado {
+	position:relative;
+	top:10%;
+	left:1%;
+	width:72%;
+	background-color:#CCCCFF;
+    border-right:solid 1px #696969;
+	border-left:solid 1px  #696969;
+/* 	
+    border-top:solid 1px #dcdcdc;
+	border-bottom:solid 1px #696969;
+*/
+
+}
+
+#frmBusqueda {
+	position:relative;
+	top:5%;
+	left:1%;
+	width:80%;
+	border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+	background-color:#CCCCFF;
+	border-top:solid 1px #dcdcdc;
+	border-left:solid 1px #dcdcdc;
+	border-right:solid 1px #696969;
+	border-bottom:solid 1px #696969;
+}
+#frmBusqueda2 {
+	position:relative;
+	top:5%;
+	left:1%;
+	width:100%;
+	background-color:#CCCCFF;
+	border-top:solid 1px #dcdcdc;
+	border-left:solid 1px #dcdcdc;
+	border-right:solid 1px #696969;
+	border-bottom:solid 1px #696969;
+}
+
+
+/*BOTNOES*/
+
+#botonBusqueda {
+	position:relative;
+	top:5%;
+	left:0%;
+	width:80%;	
+	text-align:right;
+	margin-top:0.5em;
+	padding-top:1em;
+/*	border-top:solid 1px #696969;	*/
+}
+.cajaPequena {
+	background-color: #F0F0F0;
+	font:8pt helvetica;	
+	color:#000;
+	width:100px;
+	border-color:#696969;	
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+.cajaPequena2 {
+	background-color:#fff;
+	font:8pt helvetica;	
+	color:#000;
+	width:55px;
+	border-color:#696969;	
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+.cajaMinima {
+	background-color:#fff;
+	font:8pt helvetica;	
+	color:#000;
+	width:30px;
+	border-color:#696969;	
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+.cajaMedia {
+	background-color:#fff;
+	font:8pt helvetica;
+	text-transform:uppercase;
+	color:#000;
+	width:150px;
+	border-color:#696969;
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+.cajaGrande {
+	background-color:#fff;
+	font:8pt helvetica;
+	text-transform:uppercase;
+	color:#000;
+	width:250px;
+	border-color:#696969;
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+.comboMedio {
+	background-color:#fff;
+	font:8pt helvetica;
+	color:#000;
+	width:150px;
+	border-color:#696969;
+	border-style :solid;
+	border-width :1px;
+	height:15pt;
+}
+/*FUENTES*/
+.fuente8 {
+	font:8pt helvetica;		
+}
+
+.Estilo4 {
+     font-family: Verdana, Arial, Helvetica, sans-serif; 
+	 font-size: 12px; 
+	 font-weight: bold; }
+.Estilo5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+     }
+.Estilo6 {
+    font-size: 12px; 
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+	
+.mensaje {
+	background-color: #000000;
+	color:#fff;
+	text-transform:uppercase;
+	text-align:center;
+	font-weight:bold;
+	height:20px;
+	vertical-align:middle;
+}
+.busqueda {
+	
+	font:8pt helvetica;	
+	color:#000;
+	width:100px;
+
+}
+#pagina {
+	position:absolute;
+	background-color:#fff;
+	font-family: helvetica;
+	font-size:8pt;
+	left:4%;
+	width:90%;
+}
+.izq{border-radius:10px 0 0 10px;}
+.der{border-radius:0 10px 10px 0;}
+.inicio{
+font-family:"Century Gothic";
+}
+.par{
+	background-color:#CCCCFF;
+}
+.impar {
+	background-color:#FFFFFF;
+}
+
